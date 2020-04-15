@@ -9,7 +9,7 @@
 
 import Reachability
 
-// MARK: - ImageReachability
+// MARK: - Reachability
 extension Reachability: BaseReachability {
     
     /// True if internet is reachable
